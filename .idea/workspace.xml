@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bc842837-0170-42f4-8e18-3f0176042d09" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/odoo_14_hm_training.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/discord.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/odoo_14_hm.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/odoo.conf" beforeDir="false" afterPath="$PROJECT_DIR$/config/odoo.conf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/odoo/logs/aluputer_log/log/filestore/training_dev_odoo/11/114c575a237dcb45cdce8c95c3e02ddfa6d98320" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/odoo/logs/aluputer_log/log/filestore/training_dev_odoo/4a/4a1d6cc4b0572864d9c2a20af67961875109951e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/odoo/logs/aluputer_log/log/filestore/training_dev_odoo/a0/a0fafae183edd78eb355d2ff71242ba991d88660" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/odoo/logs/aluputer_log/log/filestore/training_dev_odoo/a4/a41fb47f2ea87392c290d8c33f83606dd1c4846d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/odoo/logs/aluputer_log/log/filestore/training_dev_odoo/c0/c003d90089c93fdefa7a618201c852a65f892c1b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/odoo/logs/aluputer_log/log/filestore/training_dev_odoo/c4/c439b47e608563164b44fa8dbe7d013e4f73be87" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/odoo/logs/aluputer_log/log/filestore/training_dev_odoo/c4/c46d04fb6a77f850ee0fafc7f434c1b0e09c75d0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/odoo/logs/aluputer_log/log/filestore/training_dev_odoo/checklist/11/114c575a237dcb45cdce8c95c3e02ddfa6d98320" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/odoo/logs/aluputer_log/log/filestore/training_dev_odoo/checklist/4a/4a1d6cc4b0572864d9c2a20af67961875109951e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/odoo/logs/aluputer_log/log/filestore/training_dev_odoo/checklist/a0/a0fafae183edd78eb355d2ff71242ba991d88660" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/odoo/logs/aluputer_log/log/filestore/training_dev_odoo/checklist/a4/a41fb47f2ea87392c290d8c33f83606dd1c4846d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/odoo/logs/aluputer_log/log/filestore/training_dev_odoo/checklist/c0/c003d90089c93fdefa7a618201c852a65f892c1b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/odoo/logs/aluputer_log/log/filestore/training_dev_odoo/checklist/c4/c439b47e608563164b44fa8dbe7d013e4f73be87" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/odoo/logs/aluputer_log/log/filestore/training_dev_odoo/checklist/c4/c46d04fb6a77f850ee0fafc7f434c1b0e09c75d0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/odoo/logs/aluputer_log/log/filestore/training_dev_odoo/checklist/ef/ef57cf415a420a2445aaa49a6efef9209faee25a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/odoo/logs/aluputer_log/log/filestore/training_dev_odoo/ef/ef57cf415a420a2445aaa49a6efef9209faee25a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/odoo/logs/aluputer_log/log/sessions/werkzeug_2df6b1ec2b8b802de394e5a35fbec0aa6ce62a03.sess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/odoo/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/odoo/requirements.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2dLWx7siQ0ThVDOP8qDQE0JFqVz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Python.odoo-bin.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "pre-main",
+    "last_opened_file_path": "E:/All Project/odoo_project/odoo_14_hm_training"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="odoo-bin" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="odoo_14_hm_training" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="Python 3.8 (odoo_14_hm_training)" />
+      <option name="WORKING_DIRECTORY" value="E:\All Project\odoo_project\odoo_14_hm_training" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/odoo/odoo-bin" />
+      <option name="PARAMETERS" value="-c config/odoo.conf" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-d68999036c7f-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.14475.56" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bc842837-0170-42f4-8e18-3f0176042d09" name="Changes" comment="" />
+      <created>1709788085218</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1709788085218</updated>
+    </task>
+    <servers />
+  </component>
+</project>
