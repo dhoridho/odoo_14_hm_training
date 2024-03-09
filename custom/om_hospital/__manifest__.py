@@ -1,6 +1,5 @@
-# Brief descrition about the module
-
 # -*- coding: utf-8 -*-
+# Brief descrition about the module
 # Part of Odoo. See LICENSE file for full copyright and licensing details.
 {
     'name' : 'Hospital Management',
@@ -13,7 +12,10 @@
     'depends' : ['sale'],
     'data': [
         'security/ir.model.access.csv',
-        'views/patient.xml',
+        'data/seq_data.xml',
+        'views/patient_view.xml',
+        'views/patient_gender_view.xml',
+        'views/kids_view.xml',
         'views/sale.xml'
     ],
     'demo': [],

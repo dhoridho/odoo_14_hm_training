@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+
+    <data>
+        <!--
+               Hospital Patient Sequences
+               -->
+        <record id="sequence_hospital_patient" model="ir.sequence">
+            <field name="name">Patient Sequence</field>
+            <field name="code">hospital.patient</field>
+            <field name="prefix">HP</field>
+            <field name="padding">5</field>
+            <field eval="False" name="company_id"/>
+        </record>
+    </data>
+
+</odoo>
